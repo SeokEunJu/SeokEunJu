@@ -11,9 +11,7 @@ E-mail: elukasia@gmail.com
 
 # 💫 Skills
 
-### Language
-
-Skill Level (0-4)
+### Language(Level: 0-4)
 
 - JAVA (3)
 - Python (3)
