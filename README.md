@@ -12,7 +12,7 @@ E-mail: elukasia@gmail.com
 
 ### Language(Level: 0-4)
 
-- JAVA (3)
+- JAVA (1)
 - Python (3)
 - C/C++ (2)
 - C# (1)
@@ -20,8 +20,8 @@ E-mail: elukasia@gmail.com
 
 ### BackEnd
 
-- Spring
 - Django
+- Spring
 - MySQL
 - Docker
 - AWS
