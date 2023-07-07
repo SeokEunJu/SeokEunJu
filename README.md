@@ -1,7 +1,7 @@
 
 # 💫 Profile
 
-- Django 개발자로 일하고 있습니다.
+- 백엔드 개발자로 일하고 있습니다.
 - 더 나은 개발자가 되기 위해 노력 중입니다!
 
 # 💫 Contact
@@ -14,9 +14,6 @@ E-mail: elukasia@gmail.com
 
 - JAVA (1)
 - Python (3)
-- C/C++ (2)
-- C# (1)
-- Elixir/Erlang (2)
 
 ### BackEnd
 
